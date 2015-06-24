@@ -9,7 +9,7 @@ A Show-case of Inexpensive Clusters for Teaching PDC". In Proceedings of the
 46th ACM technical symposium on Computer science education (SIGCSE’15). Kansas 
 City, MO. March 6-8, 2015.
 
-To learn how to setup/use this cluster please [read my blog post][blog].
+To learn how to setup/use this cluster please [read my blog post](http://suzannejmatthews.github.io/2015/06/15/parallella-cluster-jTR/).
 
 For more Epiphany learning resources, please visit: 
 [http://suzannejmatthews.github.io/](http://suzannejmatthews.github.io/)
@@ -21,4 +21,3 @@ who is working on a project benchmarking the cluster against a few other
 configurations. Once that project is wrapped up, I will post the rest of the 
 files here.
 
-[blog] : http://suzannejmatthews.github.io/2015/06/15/parallella-cluster-jTR/
