@@ -13,7 +13,7 @@ To learn how to setup/use this cluster please [read my blog post][blog].
 
 For more Epiphany learning resources, please visit: 
 [http://suzannejmatthews.github.io/](http://suzannejmatthews.github.io/)
-[blog](http://suzannejmatthews.github.io/2015/06/15/parallella-cluster-jTR/)
+
 
 ###Please note:
 This repository currently does not contain all the files. I have a student 
@@ -21,3 +21,4 @@ who is working on a project benchmarking the cluster against a few other
 configurations. Once that project is wrapped up, I will post the rest of the 
 files here.
 
+[blog] : http://suzannejmatthews.github.io/2015/06/15/parallella-cluster-jTR/
