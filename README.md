@@ -9,6 +9,10 @@ A Show-case of Inexpensive Clusters for Teaching PDC". In Proceedings of the
 46th ACM technical symposium on Computer science education (SIGCSE’15). Kansas 
 City, MO. March 6-8, 2015.
 
+To learn how to setup/use this cluster please [read my blog post](http://suzannejmatthews.github.io/).
+
 For more Epiphany learning resources, please visit: 
-<a href="http://suzannejmatthews.github.io/">http://suzannejmatthews.github.io/</a>
+[http://suzannejmatthews.github.io/](http://suzannejmatthews.github.io/)
+
+##
 
